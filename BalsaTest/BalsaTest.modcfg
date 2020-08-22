@@ -1,0 +1,17 @@
+ModCFG
+{
+    title = BalsaTest
+    author = godarklight
+    modVersion = 0.1.0
+    Plugin
+    {
+        name = BalsaTest
+        description = BalsaTest mod
+        asmpath = Addons/zz_BalsaTest/BalsaTest.dll
+        order = 100
+    }
+    Parts
+    {
+        part = Addons/zz_BalsaTest/BalsaTest.cfg
+    }
+} 
